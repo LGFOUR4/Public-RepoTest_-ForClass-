@@ -11,3 +11,10 @@ Hi my names Gilstrap! Im 16, I love to draw and 3d model. Im pretty new to codin
 
 
 For people in my group this is the invite particiapnts link: https://prod.liveshare.vsengsaas.visualstudio.com/join?C46A179CC69C4797D8C7084F3926F78C7E0D
+
+<h1> Things we have in common with our group! </h1>
+<p> We like to draw </p>
+  <p> We play sports </p>
+    <p> We all watched the world cup </p>
+      <p> We enjoy baking / cooking </p>
+        <p> We like to play games alot</p>
